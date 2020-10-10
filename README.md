@@ -1,14 +1,7 @@
 # Custom Components
 My Flutter's custom component that i build.
 
-## Todos
-- [ ] Publish to [pub](pub.dev).
-- [ ] Example, Tutorials, Guide and Preview each widget.
-  - [ ] CImage.
-- [ ] Testing each widget.
-  - [ ] CImages.
-- [ ] Add CI/CD.
-  - [ ] Automatic publish to [pub](pub.dev) via CI.
+
 
 ## Feature and components
  
@@ -22,7 +15,14 @@ My Flutter's custom component that i build.
 |**CLazyLoadingListView**|ListView Pagable infinite scrolling.|N/A|x
 |**CLike**|Render new favorite or like button.|N/A|x
 
-
+## Todos
+- [ ] Publish to [pub](pub.dev).
+- [ ] Example, Tutorials, Guide and Preview each widget.
+  - [ ] CImage.
+- [ ] Testing each widget.
+  - [ ] CImages.
+- [ ] Add CI/CD.
+  - [ ] Automatic publish to [pub](pub.dev) via CI.
 
 ## Authors 
 - [LyhourChhen](https://github.com/lyhourchhen)
