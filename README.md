@@ -2,9 +2,9 @@
 My Flutter's custom component that i build.
 
 ## Todos
-- [] Publish to [pub](pub.dev)
-- [] Testing each widget.
-- [] Add CI/CD.
+- [ ] Publish to [pub](pub.dev).
+- [ ] Testing each widget.
+- [ ] Add CI/CD.
 
 ## Feature and components
  
