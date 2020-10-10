@@ -5,7 +5,7 @@ My Flutter's custom component that i build.
 - [ ] Publish to [pub](pub.dev).
 - [ ] Testing each widget.
 - [ ] Add CI/CD.
- - [ ] Automatic publish to [pub](pub.dev) via CI.
+  - [ ] Automatic publish to [pub](pub.dev) via CI.
 
 ## Feature and components
  
