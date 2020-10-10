@@ -3,7 +3,10 @@ My Flutter's custom component that i build.
 
 ## Todos
 - [ ] Publish to [pub](pub.dev).
+- [ ] Example, Tutorials, Guide and Preview each widget.
+  - [ ] CImage.
 - [ ] Testing each widget.
+  - [ ] CImages.
 - [ ] Add CI/CD.
   - [ ] Automatic publish to [pub](pub.dev) via CI.
 
