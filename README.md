@@ -1,3 +1,5 @@
+[![pub package](https://img.shields.io/badge/pub-0.0.1-blueviolet.svg)](https://pub.dev/packages/custom_components)
+
 # Custom Components
 My Flutter's custom component that i build.
 
