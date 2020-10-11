@@ -2,7 +2,8 @@
 
 ## CImages 
 
-**Guide**
+**New Image-widget include lazy-loading also cache images.**
+
 ```dart
 // Import
 import "package:custom_components/CImages.dart";
