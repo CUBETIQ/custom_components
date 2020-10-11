@@ -16,6 +16,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - name: "Add credential to pub.dev to understand"
+      run: pub uploader add chhenlyhour@gmail.com
     - name: "Trying to publish without confirmation"
       run: pub publish --force
 #     - name: Install dependencies
