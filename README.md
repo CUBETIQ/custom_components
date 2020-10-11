@@ -18,7 +18,7 @@ My Flutter's custom component that i build.
 |**CLike**|Render new favorite or like button.|N/A|x
 
 ## Todos
-- [x] Publish to [pub](pub.dev).
+- [x] Publish to [pub](https://pub.dev/packages/custom_components).
 - [x] Example, Tutorials, Guide and Preview each widget.
   - [x] CImage.
   - Other still remain.
@@ -26,7 +26,7 @@ My Flutter's custom component that i build.
   - [x] CImages.
   - Other still remain.
 - [x] Add CI/CD.
-  - [x] Automatic publish to [pub](pub.dev) via CI.
+  - [x] Automatic publish to [pub](https://pub.dev/packages/custom_components) via CI.
   - [ ] CI to test widget to pull and push.
 
 ## Authors 
