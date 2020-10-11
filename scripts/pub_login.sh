@@ -1,3 +1,6 @@
+#!usr/bin/bash
+cd ~ && mkdir .pub-cache && touch credentials.json
+
 if [ -z "${PUB_DEV_PUBLISH_ACCESS_TOKEN}" ]; then
   echo "Missing PUB_DEV_PUBLISH_ACCESS_TOKEN environment variable"
   exit 1
