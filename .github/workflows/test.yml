@@ -22,9 +22,8 @@ jobs:
       uses: DanTup/gh-actions/setup-flutter@master
       with:
         channel: ${{ matrix.flutter-version }}
+        
     - name: Install dependencies
       run: pub get
-    - name: "Try flutter pub"
-      run: flutter pub get
     - name: Run tests
       run: pub run test
