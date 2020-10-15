@@ -16,6 +16,7 @@ My Flutter's custom component that i build.
 |**CLoading**|New Loading Widget built for Logo and CircularProgressIndicator.|N/A|x
 |**CLazyLoadingListView**|ListView Pagable infinite scrolling.|N/A|x
 |**CLike**|Render new favorite or like button.|N/A|x
+|**Console Log**|Better logs than original logs from flutter|N/A|x
 
 ## Todos
 - [x] Publish to [pub](https://pub.dev/packages/custom_components).
