@@ -17,6 +17,7 @@ My Flutter's custom component that i build.
 |**CLazyLoadingListView**|ListView Pagable infinite scrolling.|N/A|x
 |**CLike**|Render new favorite or like button.|N/A|x
 |**Console Log**|Better logs than original logs from flutter|N/A|x
+|**flutter_custom_credit_card_ui**|Implement a simple flutter library to render a beautiful credit card ui with card detection.|[**Preview**](https://github.com/LyhourChhen/flutter_custom_credit_card_ui)|**YES**
 
 ## Todos
 - [x] Publish to [pub](https://pub.dev/packages/custom_components).
