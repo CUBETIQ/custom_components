@@ -11,10 +11,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cached_network_image: ^2.2.0+1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
+  flutter_i18n: ^0.19.1
+  cached_network_image: ^2.2.0+1
+  like_button: ^1.0.3
+  flutter_hooks: ^0.13.2
+  infinite_scroll_pagination: ^2.0.1
 flutter:

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import "package:custom_components/CImages.dart";
+import 'package:custom_components/components/CImage/CImage.dart';
 
 void main() {
   runApp(MyApp());
@@ -50,7 +50,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Container(
               width: 100,
               height: 100,
-              child: CImages(
+              child: CImage(
                   imageUrl:
                       "https://i.pinimg.com/originals/56/18/80/56188007ae6e434446ea28f58a5849a8.jpg"),
             ),
