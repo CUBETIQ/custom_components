@@ -20,6 +20,8 @@ My Flutter's custom component that i build.
 |**flutter_custom_credit_card_ui**|Implement a simple flutter library to render a beautiful credit card ui with card detection.|[**Preview**](https://github.com/LyhourChhen/flutter_custom_credit_card_ui)|**YES**
 
 ## Todos
+- [ ] Keep components reliable and be able to scale.
+- [ ] Example each components. 
 - [x] Publish to [pub](https://pub.dev/packages/custom_components).
 - [x] Example, Tutorials, Guide and Preview each widget.
   - [x] CImage.
