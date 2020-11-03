@@ -6,7 +6,7 @@
 
 ```dart
 // Import
-import "package:custom_components/CImages.dart";
+import "package:custom_components/CImage.dart";
 // Usages
 Container(
     width: 100,
