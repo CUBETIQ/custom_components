@@ -18,6 +18,7 @@ My Flutter's custom component that i build.
 |**CLike**|Render new favorite or like button.|N/A|x
 
 ## Todos
+- [ ] Keep components reliable and be able to scale.
 - [ ] Example each components. 
 - [x] Publish to [pub](https://pub.dev/packages/custom_components).
 - [x] Example, Tutorials, Guide and Preview each widget.
